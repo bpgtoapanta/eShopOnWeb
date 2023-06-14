@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-btoapanta
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: SUBSCRIPTION-ID
+  SUBSCRIPTION-ID: dd64997a-808e-4546-9675-06f6103d1acd
   WEBAPP-NAME: az400-webapp-btoapanta
 
 
